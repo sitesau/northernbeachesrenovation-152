@@ -1,0 +1,22 @@
+{
+  "wheel_id": 396,
+  "structure": "umbrella",
+  "slug": "northernbeachesrenovation-152",
+  "project": "home-renovations-northern-beaches-suburb-guide-17449f5068524010",
+  "parent_t1_ref": "northernbeachesrenovation-010",
+  "node_role": "buffer",
+  "money_target": "northernbeachesrenovation.com.au",
+  "primary_kw": "home renovations northern beaches suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/home-renovations-northern-beaches-suburb-guide-17449f5068524010/",
+  "tier": "T2",
+  "writeback_nonce": "1a1422635458cf6d",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-renovations-northern-beaches/",
+      "anchor": "Home Renovations Northern Beaches: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
